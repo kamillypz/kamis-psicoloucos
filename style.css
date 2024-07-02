@@ -1,4 +1,7 @@
-html {
-  height: 100%;
-  width: 100%;
+.titulo-principal{
+  padding-left: 230px;
+}
+
+#logo{
+  height: 100px;
 }
